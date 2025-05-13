@@ -282,15 +282,15 @@ section {
 }
 
 .slide1 {
-  background-image: url('/img/1.jpg'); /* Replace with your image */
+  background-image: url('/1.jpg'); /* Replace with your image */
 }
 
 .slide2 {
-  background-image: url('/img/3.jpg');
+  background-image: url('/3.jpg');
 }
 
 .slide3 {
-  background-image: url('/img/4.jfif');
+  background-image: url('/4.jfif');
 }
 
 .hero-text h1 {
